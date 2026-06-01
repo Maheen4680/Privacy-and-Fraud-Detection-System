@@ -1,5 +1,5 @@
 # Privacy-and-Fraud-Detection-System
-M7 Privacy & Fraud Detection System
+Privacy & Fraud Detection System
 The M7 Privacy & Fraud Detection System is a modular React-based platform offering integrated, role-based tools for both consumer privacy protection and enterprise-grade threat management.
 
 Project Structure
